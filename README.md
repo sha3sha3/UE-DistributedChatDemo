@@ -5,4 +5,4 @@
   <br>
 </h1>
 
-[Documentation](https://www.unrealengine.com/marketplace/en-US/product/easychat)
+[Documentation](https://docs.google.com/document/d/13LBc1eQn7qiQNwOaOHOpI7gioysfKtMTFzpoTgtsQkg)
